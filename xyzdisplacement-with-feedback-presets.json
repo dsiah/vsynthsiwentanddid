@@ -1,0 +1,111 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Vsynth",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.dial" : [ 0.488188976377952 ],
+					"live.dial[1]" : [ 0.527559055118111 ],
+					"vs_lfo::lfo_freq_range" : [ 0.0 ],
+					"vs_lfo::lfo_freq" : [ 2.440944881889764 ],
+					"vs_lfo::lfo_pw" : [ 50.0 ],
+					"vs_lfo::lfo_wave" : [ 0.0 ],
+					"vs_lfo::umenu" : [ 0 ],
+					"vs_crssfade::crossfade" : [ 0.535427716535434 ],
+					"vs_xyz_disp::xyzdis_dimx" : [ 100.0 ],
+					"vs_xyz_disp::xyzdis_dimy" : [ 100.0 ],
+					"vs_xyz_disp::xyzdisp_drawmode" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_polymode" : [ 1.0 ],
+					"vs_xyz_disp::xyzdisp_shape" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_width" : [ 9.503937007874002 ],
+					"vs_xyz_disp::xyzdisp_x" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_y" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_z" : [ 0.0 ],
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_xyz_disp[1]::xyzdis_dimx" : [ 100.0 ],
+					"vs_xyz_disp[1]::xyzdis_dimy" : [ 100.0 ],
+					"vs_xyz_disp[1]::xyzdisp_drawmode" : [ 2.0 ],
+					"vs_xyz_disp[1]::xyzdisp_polymode" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_shape" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_width" : [ 3.519685039370077 ],
+					"vs_xyz_disp[1]::xyzdisp_x" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_y" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_z" : [ 0.000061756986261 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"live.dial" : [ 0.488188976377952 ],
+					"live.dial[1]" : [ 0.527559055118111 ],
+					"vs_lfo::lfo_freq_range" : [ 0.0 ],
+					"vs_lfo::lfo_freq" : [ 2.440944881889764 ],
+					"vs_lfo::lfo_pw" : [ 50.0 ],
+					"vs_lfo::lfo_wave" : [ 0.0 ],
+					"vs_lfo::umenu" : [ 0 ],
+					"vs_crssfade::crossfade" : [ 0.212596299212598 ],
+					"vs_xyz_disp::xyzdis_dimx" : [ 100.0 ],
+					"vs_xyz_disp::xyzdis_dimy" : [ 100.0 ],
+					"vs_xyz_disp::xyzdisp_drawmode" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_polymode" : [ 1.0 ],
+					"vs_xyz_disp::xyzdisp_shape" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_width" : [ 6.984251968503926 ],
+					"vs_xyz_disp::xyzdisp_x" : [ 0.251968503937007 ],
+					"vs_xyz_disp::xyzdisp_y" : [ 0.338582677165356 ],
+					"vs_xyz_disp::xyzdisp_z" : [ 0.393700787401574 ],
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_xyz_disp[1]::xyzdis_dimx" : [ 100.0 ],
+					"vs_xyz_disp[1]::xyzdis_dimy" : [ 100.0 ],
+					"vs_xyz_disp[1]::xyzdisp_drawmode" : [ 2.0 ],
+					"vs_xyz_disp[1]::xyzdisp_polymode" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_shape" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_width" : [ 3.519685039370077 ],
+					"vs_xyz_disp[1]::xyzdisp_x" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_y" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_z" : [ 0.026956924502086 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"live.dial" : [ 0.488188976377952 ],
+					"live.dial[1]" : [ 0.527559055118111 ],
+					"vs_lfo::lfo_freq_range" : [ 0.0 ],
+					"vs_lfo::lfo_freq" : [ 2.440944881889764 ],
+					"vs_lfo::lfo_pw" : [ 50.0 ],
+					"vs_lfo::lfo_wave" : [ 0.0 ],
+					"vs_lfo::umenu" : [ 0 ],
+					"vs_crssfade::crossfade" : [ 0.212596299212598 ],
+					"vs_xyz_disp::xyzdis_dimx" : [ 100.0 ],
+					"vs_xyz_disp::xyzdis_dimy" : [ 100.0 ],
+					"vs_xyz_disp::xyzdisp_drawmode" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_polymode" : [ 1.0 ],
+					"vs_xyz_disp::xyzdisp_shape" : [ 0.0 ],
+					"vs_xyz_disp::xyzdisp_width" : [ 6.984251968503926 ],
+					"vs_xyz_disp::xyzdisp_x" : [ 0.251968503937007 ],
+					"vs_xyz_disp::xyzdisp_y" : [ 0.338582677165356 ],
+					"vs_xyz_disp::xyzdisp_z" : [ 0.393700787401574 ],
+					"vs_camera_s::cam_on" : [ 1.0 ],
+					"vs_xyz_disp[1]::xyzdis_dimx" : [ 100.0 ],
+					"vs_xyz_disp[1]::xyzdis_dimy" : [ 100.0 ],
+					"vs_xyz_disp[1]::xyzdisp_drawmode" : [ 2.0 ],
+					"vs_xyz_disp[1]::xyzdisp_polymode" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_shape" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_width" : [ 3.519685039370077 ],
+					"vs_xyz_disp[1]::xyzdisp_x" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_y" : [ 0.0 ],
+					"vs_xyz_disp[1]::xyzdisp_z" : [ -0.153033811949975 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
